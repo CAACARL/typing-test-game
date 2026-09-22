@@ -1,4 +1,4 @@
-# CODERACER 🚀
+# TYPETRONTEST 🚀
 
 A modern, cyberpunk-inspired typing speed test application with code and text modes. Built with React, TypeScript, and Vite.
 
@@ -10,17 +10,20 @@ A modern, cyberpunk-inspired typing speed test application with code and text mo
 ## ✨ Features
 
 ### 🎮 Gaming Aesthetic
+
 - Retro-futuristic **TRON-inspired** design with neon green accents
 - CRT scanline effects and grid backgrounds
 - Glitch effects on logo
 - Smooth animations and transitions
 
 ### 💻 Multiple Modes
+
 - **Code Modes**: JavaScript, Python, Java, C++, PHP
 - **Text Mode**: Classic typing test with punctuation levels
 - **Smart Generation**: Realistic code syntax and natural text patterns
 
 ### 📊 Advanced Metrics
+
 - **WPM**: Real-time words per minute calculation
 - **Accuracy**: Keystroke-based precision tracking
 - **Performance Graph**: Visualize WPM over time with SVG graphs
@@ -28,18 +31,21 @@ A modern, cyberpunk-inspired typing speed test application with code and text mo
 - **Error Tracking**: Monitor mistakes and corrections
 
 ### 🏆 Stats & Leaderboards
+
 - **Top 3 Podium**: Champion showcase with gold/silver/bronze rankings
 - **Filters**: Sort by language and duration
 - **Game History**: Click any past game to view detailed stats
 - **Local Storage**: Saves up to 20 recent tests
 
 ### ⚙️ Customization
+
 - **Test Durations**: 15s, 30s, 60s, 120s
 - **Player Profiles**: 12 unique icons
 - **Sound Effects**: Retro gaming audio (toggle on/off)
 - **Difficulty Levels**: Easy, Medium, Hard punctuation (text mode)
 
 ### 🎯 User Experience
+
 - **Auto-scroll**: Monkeytype-style text windowing
 - **Keyboard Shortcuts**: Enter to start, Escape to close modals
 - **Responsive Design**: Works on all screen sizes
@@ -48,7 +54,8 @@ A modern, cyberpunk-inspired typing speed test application with code and text mo
 ## 🚀 Getting Started
 
 ### Prerequisites
-- **Node.js** 18+ 
+
+- **Node.js** 18+
 - **npm** or **yarn**
 
 ### Installation
@@ -90,11 +97,11 @@ The production build will be in the `dist/` folder.
 
 ## ⌨️ Keyboard Shortcuts
 
-| Key | Action |
-|-----|--------|
-| `Enter` | Start test / Continue to name input |
-| `Escape` | Close modals / Cancel |
-| `Click text area` | Focus input field |
+| Key               | Action                              |
+| ----------------- | ----------------------------------- |
+| `Enter`           | Start test / Continue to name input |
+| `Escape`          | Close modals / Cancel               |
+| `Click text area` | Focus input field                   |
 
 ## 📐 Project Structure
 
@@ -131,7 +138,7 @@ src/
 ## 🎨 Design Features
 
 - **Color Scheme**: Neon green (#00ff88) on dark blue/black
-- **Fonts**: 
+- **Fonts**:
   - Orbitron (headings, monospace)
   - Rajdhani (body text)
 - **Effects**:
@@ -144,19 +151,23 @@ src/
 ## 📊 Metrics Explained
 
 ### WPM (Words Per Minute)
+
 ```
 WPM = ((total_keystrokes / 5) - (errors / 5)) / (time_in_seconds / 60)
 ```
 
 ### Accuracy
+
 ```
 Accuracy = (correct_keystrokes / total_keystrokes) × 100
 ```
+
 Accounts for all keystrokes including deletions and corrections.
 
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to:
+
 - Report bugs
 - Suggest features
 - Submit pull requests
@@ -173,4 +184,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-*Happy typing! May your WPM be high and your accuracy be 100%* 🎯
+_Happy typing! May your WPM be high and your accuracy be 100%_ 🎯

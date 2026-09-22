@@ -491,6 +491,11 @@ function App() {
           </div>
         </section>
       </main>
+
+      <footer className="footer">
+        <div className="footer-text">TYPETRONTEST</div>
+        <div className="footer-version">v1.0.0</div>
+      </footer>
     </div>
   );
 }
