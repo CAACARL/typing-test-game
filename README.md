@@ -1,8 +1,7 @@
 # TYPETRONTEST 🚀
 
-A modern, cyberpunk-inspired typing speed test application with code and text modes. Built with React, TypeScript, and Vite.
+A modern, TRON-inspired typing speed test application with code and text modes. Built with React, TypeScript, and Vite.
 
-![CODERACER](https://img.shields.io/badge/CODERACER-TypeTron-00ff88?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-19-61dafb?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178c6?style=flat-square)
 ![Vite](https://img.shields.io/badge/Vite-8.3-646cff?style=flat-square)
@@ -179,7 +178,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🙏 Acknowledgments
 
 - Inspired by Monkeytype and TypeRacer
-- TRON aesthetic for the cyberpunk design
+- TRON aesthetic for the design
 - Gaming culture for the retro vibes
 
 ---
